@@ -128,7 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="10月\10.09\2-C. Common Subsequence.cpp" />
-    <ClCompile Include="10月\10.09\3-.cpp" />
+    <ClCompile Include="10月\10.09\3-A. Andrew and Efficient Change.cpp" />
     <ClCompile Include="9月\1-A1. Floor of MEX %28Easy Version%29.cpp" />
     <ClCompile Include="9月\1-C. 101.cpp" />
     <ClCompile Include="9月\1-C. MEXOR.cpp" />
