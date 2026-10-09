@@ -78,5 +78,20 @@
     <ClCompile Include="10月\10.09\4-P3382 三分.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="牛客小白月赛138\A-Sleeping Time.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客小白月赛138\B-Is it Palidrome.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客小白月赛138\C-AND and OR.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客小白月赛138\D-Light up the Graph.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客小白月赛138\E-Rock-Paper-Scissors String Game.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
