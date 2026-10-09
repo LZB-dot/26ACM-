@@ -100,10 +100,11 @@
 //			if (j >= 1 && j <= n && a[i - 1] == b[j - 1] && prev[offset] != -1)
 //				tmp[offset] = max(prev[offset], cur + 1);
 //
-//
+//			//垂直向下转移，偏移量加1
 //			if (offset + 1 < band && prev[offset + 1] != -1)
-//				tmp[offset] = max(tmp[offset], tmp[offset + 1]);
+//				tmp[offset] = max(tmp[offset], prev[offset + 1]);
 //
+//			//水平向右转移，同一层
 //			if (offset - 1 >= 0 && tmp[offset - 1] != -1) 
 //				tmp[offset] = max(tmp[offset], tmp[offset - 1]);
 //			
