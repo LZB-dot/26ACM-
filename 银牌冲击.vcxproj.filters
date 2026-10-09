@@ -72,5 +72,8 @@
     <ClCompile Include="10月\10.09\2-C. Common Subsequence.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="STL\1-查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

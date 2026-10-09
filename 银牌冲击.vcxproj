@@ -140,6 +140,7 @@
     <ClCompile Include="9月\3-E - All-you-can-eat .cpp" />
     <ClCompile Include="9月\3-E. Masha and the Garland.cpp" />
     <ClCompile Include="9月\1-B. Resource Distribution.cpp" />
+    <ClCompile Include="STL\1-查找.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
