@@ -66,10 +66,10 @@
     <ClCompile Include="10月\10.09\1-E. Enegue%27s Enigmatic Lanterns.cpp">
       <Filter>10.08</Filter>
     </ClCompile>
-    <ClCompile Include="10月\10.09\2-.cpp">
+    <ClCompile Include="10月\10.09\3-.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="10月\10.09\3-.cpp">
+    <ClCompile Include="10月\10.09\2-C. Common Subsequence.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
