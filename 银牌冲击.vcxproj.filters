@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="9.20">
+      <UniqueIdentifier>{f57f367a-34c6-4a33-a591-16263837b3d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="9.21">
+      <UniqueIdentifier>{bc77bbbd-fb25-4a34-9b35-f439e7f1730d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="9.22">
+      <UniqueIdentifier>{9597f634-cede-44da-9a22-1aa9e7b3a73b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="9.26">
+      <UniqueIdentifier>{99405b83-e4f0-497d-91f8-fe90cd18c691}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="9.28">
+      <UniqueIdentifier>{ca2cad61-18fc-42ae-a42c-67f4f06e1520}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="10.08">
+      <UniqueIdentifier>{ea2daeab-3bee-4c70-9f3d-3483d110a754}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="9月\1-A1. Floor of MEX %28Easy Version%29.cpp">
+      <Filter>9.20</Filter>
+    </ClCompile>
+    <ClCompile Include="9月\1-C. 101.cpp">
+      <Filter>9.21</Filter>
+    </ClCompile>
+    <ClCompile Include="9月\2-X - Tower.cpp">
+      <Filter>9.21</Filter>
+    </ClCompile>
+    <ClCompile Include="9月\3-E - All-you-can-eat .cpp">
+      <Filter>9.21</Filter>
+    </ClCompile>
+    <ClCompile Include="9月\1-D. Yaroslav and Productivity.cpp">
+      <Filter>9.22</Filter>
+    </ClCompile>
+    <ClCompile Include="9月\1-C. MEXOR.cpp">
+      <Filter>9.26</Filter>
+    </ClCompile>
+    <ClCompile Include="9月\2-B. Turn the Rectangles.cpp">
+      <Filter>9.26</Filter>
+    </ClCompile>
+    <ClCompile Include="9月\3-E. Masha and the Garland.cpp">
+      <Filter>9.26</Filter>
+    </ClCompile>
+    <ClCompile Include="9月\1-B. Resource Distribution.cpp">
+      <Filter>9.28</Filter>
+    </ClCompile>
+    <ClCompile Include="9月\2-D. Palindromex.cpp">
+      <Filter>9.28</Filter>
+    </ClCompile>
+    <ClCompile Include="10月\10.09\1-E. Enegue%27s Enigmatic Lanterns.cpp">
+      <Filter>10.08</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
