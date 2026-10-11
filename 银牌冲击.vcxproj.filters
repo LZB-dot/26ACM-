@@ -96,5 +96,8 @@
     <ClCompile Include="牛客小白月赛138\F-Permutation of RBS.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.11\1-K. Kernel Of Love.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
