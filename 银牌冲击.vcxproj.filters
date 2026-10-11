@@ -99,5 +99,8 @@
     <ClCompile Include="10月\10.11\1-K. Kernel Of Love.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.11\2-C. Promenade by the lake.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
