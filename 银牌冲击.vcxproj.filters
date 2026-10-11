@@ -93,5 +93,8 @@
     <ClCompile Include="牛客小白月赛138\E-Rock-Paper-Scissors String Game.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="牛客小白月赛138\F-Permutation of RBS.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

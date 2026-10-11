@@ -147,6 +147,7 @@
     <ClCompile Include="牛客小白月赛138\C-AND and OR.cpp" />
     <ClCompile Include="牛客小白月赛138\D-Light up the Graph.cpp" />
     <ClCompile Include="牛客小白月赛138\E-Rock-Paper-Scissors String Game.cpp" />
+    <ClCompile Include="牛客小白月赛138\F-Permutation of RBS.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
