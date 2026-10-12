@@ -144,6 +144,11 @@
     <ClCompile Include="9月\3-E. Masha and the Garland.cpp" />
     <ClCompile Include="9月\1-B. Resource Distribution.cpp" />
     <ClCompile Include="STL\1-查找.cpp" />
+    <ClCompile Include="牛客周赛 Round 165\A-小月的dx分.cpp" />
+    <ClCompile Include="牛客周赛 Round 165\B-小月的配对.cpp" />
+    <ClCompile Include="牛客周赛 Round 165\C-小月的程序.cpp" />
+    <ClCompile Include="牛客周赛 Round 165\D-小月的删数.cpp" />
+    <ClCompile Include="牛客周赛 Round 165\E-小月的折返颜色.cpp" />
     <ClCompile Include="牛客小白月赛138\A-Sleeping Time.cpp" />
     <ClCompile Include="牛客小白月赛138\B-Is it Palidrome.cpp" />
     <ClCompile Include="牛客小白月赛138\C-AND and OR.cpp" />
