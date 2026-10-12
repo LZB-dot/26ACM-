@@ -149,6 +149,7 @@
     <ClCompile Include="牛客周赛 Round 165\C-小月的程序.cpp" />
     <ClCompile Include="牛客周赛 Round 165\D-小月的删数.cpp" />
     <ClCompile Include="牛客周赛 Round 165\E-小月的折返颜色.cpp" />
+    <ClCompile Include="牛客周赛 Round 165\F-小月的峰.cpp" />
     <ClCompile Include="牛客小白月赛138\A-Sleeping Time.cpp" />
     <ClCompile Include="牛客小白月赛138\B-Is it Palidrome.cpp" />
     <ClCompile Include="牛客小白月赛138\C-AND and OR.cpp" />

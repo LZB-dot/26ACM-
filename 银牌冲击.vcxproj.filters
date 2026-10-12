@@ -117,5 +117,8 @@
     <ClCompile Include="牛客周赛 Round 165\E-小月的折返颜色.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="牛客周赛 Round 165\F-小月的峰.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
