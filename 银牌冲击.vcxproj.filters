@@ -99,7 +99,7 @@
     <ClCompile Include="10月\10.11\1-K. Kernel Of Love.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="10月\10.11\2-C. Promenade by the lake.cpp">
+    <ClCompile Include="10月\10.12\1-C. Promenade by the lake.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="牛客周赛 Round 165\A-小月的dx分.cpp">
@@ -118,6 +118,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="牛客周赛 Round 165\F-小月的峰.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10月\10.12\2-Oil Deposits.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
