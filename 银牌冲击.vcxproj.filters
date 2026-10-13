@@ -141,5 +141,8 @@
     <ClCompile Include="10月\10.13\4-D. Arena Paths.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.13\5-最短路.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
