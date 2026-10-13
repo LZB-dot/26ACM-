@@ -147,5 +147,8 @@
     <ClCompile Include="10月\10.13\6-P2865 [USACO06NOV] Roadblocks G.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.13\7-How Many Paths Are There.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
