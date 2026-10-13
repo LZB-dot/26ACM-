@@ -99,7 +99,7 @@
     <ClCompile Include="10月\10.11\1-K. Kernel Of Love.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="10月\10.12\1-C. Promenade by the lake.cpp">
+    <ClCompile Include="10月\10.13\3-C. Promenade by the lake.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="牛客周赛 Round 165\A-小月的dx分.cpp">
@@ -120,7 +120,22 @@
     <ClCompile Include="牛客周赛 Round 165\F-小月的峰.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="10月\10.12\2-Oil Deposits.cpp">
+    <ClCompile Include="10月\10.12\1-Oil Deposits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10月\10.12\2-Red and Black.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10月\10.13\1--P1341 无序字母对.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10月\10.12\3-B. Two Buttons.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10月\10.12\4-B. Labyrinth.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10月\10.13\2-P1032 [NOIP 2002 提高组] 字串变换（疑似错题）.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
