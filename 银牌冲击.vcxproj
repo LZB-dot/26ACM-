@@ -138,6 +138,7 @@
     <ClCompile Include="10月\10.12\3-B. Two Buttons.cpp" />
     <ClCompile Include="10月\10.12\4-B. Labyrinth.cpp" />
     <ClCompile Include="10月\10.13\2-P1032 [NOIP 2002 提高组] 字串变换（疑似错题）.cpp" />
+    <ClCompile Include="10月\10.13\4-D. Arena Paths.cpp" />
     <ClCompile Include="9月\1-A1. Floor of MEX %28Easy Version%29.cpp" />
     <ClCompile Include="9月\1-C. 101.cpp" />
     <ClCompile Include="9月\1-C. MEXOR.cpp" />
