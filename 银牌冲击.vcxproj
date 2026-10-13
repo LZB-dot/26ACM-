@@ -140,6 +140,7 @@
     <ClCompile Include="10月\10.13\2-P1032 [NOIP 2002 提高组] 字串变换（疑似错题）.cpp" />
     <ClCompile Include="10月\10.13\4-D. Arena Paths.cpp" />
     <ClCompile Include="10月\10.13\5-最短路.cpp" />
+    <ClCompile Include="10月\10.13\6-P2865 [USACO06NOV] Roadblocks G.cpp" />
     <ClCompile Include="9月\1-A1. Floor of MEX %28Easy Version%29.cpp" />
     <ClCompile Include="9月\1-C. 101.cpp" />
     <ClCompile Include="9月\1-C. MEXOR.cpp" />
