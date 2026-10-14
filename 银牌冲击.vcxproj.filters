@@ -153,5 +153,8 @@
     <ClCompile Include="10月\10.14\1-B. Guess the Array.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.14\2-G. Robots.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
