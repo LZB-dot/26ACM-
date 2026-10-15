@@ -159,5 +159,8 @@
     <ClCompile Include="10月\10.15\1-E-Easily Distinguishable Triangles.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.15\2-Wormholes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
