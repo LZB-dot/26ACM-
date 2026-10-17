@@ -147,6 +147,7 @@
     <ClCompile Include="10月\10.15\1-E-Easily Distinguishable Triangles.cpp" />
     <ClCompile Include="10月\10.15\2-Wormholes.cpp" />
     <ClCompile Include="10月\10.15\3-Intervals.cpp" />
+    <ClCompile Include="10月\10.17\1-I. Luke%27s Math Problem.cpp" />
     <ClCompile Include="9月\1-A1. Floor of MEX %28Easy Version%29.cpp" />
     <ClCompile Include="9月\1-C. 101.cpp" />
     <ClCompile Include="9月\1-C. MEXOR.cpp" />

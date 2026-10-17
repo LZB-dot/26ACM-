@@ -165,5 +165,8 @@
     <ClCompile Include="10月\10.15\3-Intervals.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.17\1-I. Luke%27s Math Problem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
