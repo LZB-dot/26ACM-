@@ -186,5 +186,8 @@
     <ClCompile Include="牛客周赛 Round 166\F-小月的订单.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.19\1-H. Lemon Tang (Japanese Ver.).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
