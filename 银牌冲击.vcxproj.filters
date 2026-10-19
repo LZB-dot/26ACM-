@@ -192,5 +192,8 @@
     <ClCompile Include="10月\10.19\2-G. Contrived Array Property.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.19\3-Networking.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
