@@ -204,5 +204,8 @@
     <ClCompile Include="10月\10.19\6-确定比赛名次.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.19\7-Legal or Not.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
