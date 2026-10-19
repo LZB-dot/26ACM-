@@ -201,5 +201,8 @@
     <ClCompile Include="10月\10.19\5-P4180 [BJWC2010] 严格次小生成树cpp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.19\6-确定比赛名次.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
