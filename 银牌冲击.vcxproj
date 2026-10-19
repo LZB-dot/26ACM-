@@ -151,6 +151,7 @@
     <ClCompile Include="10月\10.19\1-H. Lemon Tang (Japanese Ver.).cpp" />
     <ClCompile Include="10月\10.19\2-G. Contrived Array Property.cpp" />
     <ClCompile Include="10月\10.19\3-Networking.cpp" />
+    <ClCompile Include="10月\10.19\4-Highways.cpp" />
     <ClCompile Include="9月\1-A1. Floor of MEX %28Easy Version%29.cpp" />
     <ClCompile Include="9月\1-C. 101.cpp" />
     <ClCompile Include="9月\1-C. MEXOR.cpp" />
