@@ -155,6 +155,7 @@
     <ClCompile Include="10月\10.19\5-P4180 [BJWC2010] 严格次小生成树cpp.cpp" />
     <ClCompile Include="10月\10.19\6-确定比赛名次.cpp" />
     <ClCompile Include="10月\10.19\7-Legal or Not.cpp" />
+    <ClCompile Include="10月\10.20\1-A. Convolution XOR SUM.cpp" />
     <ClCompile Include="9月\1-A1. Floor of MEX %28Easy Version%29.cpp" />
     <ClCompile Include="9月\1-C. 101.cpp" />
     <ClCompile Include="9月\1-C. MEXOR.cpp" />
