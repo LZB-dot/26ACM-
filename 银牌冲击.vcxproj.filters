@@ -219,5 +219,11 @@
     <ClCompile Include="10月\10.20\4-P2419 [USACO08JAN] Cow Contest S.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.20\5-P6175 无向图的最小环问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10月\10.20\6-P1137 旅行计划.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
