@@ -213,5 +213,11 @@
     <ClCompile Include="10月\10.20\2-B. Convolution SUM XOR.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.20\3-Sorting It All Out.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10月\10.20\4-P2419 [USACO08JAN] Cow Contest S.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
