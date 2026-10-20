@@ -210,5 +210,8 @@
     <ClCompile Include="10月\10.20\1-A. Convolution XOR SUM.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.20\2-B. Convolution SUM XOR.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
