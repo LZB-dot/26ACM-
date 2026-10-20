@@ -1,6 +1,6 @@
 //
 //
-////https://codeforces.com/gym/104333/problem/A
+////https://codeforces.com/gym/104333/problem/B
 //
 //#include<iostream>
 //#include<vector>
