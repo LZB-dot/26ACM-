@@ -161,6 +161,7 @@
     <ClCompile Include="10月\10.20\4-P2419 [USACO08JAN] Cow Contest S.cpp" />
     <ClCompile Include="10月\10.20\5-P6175 无向图的最小环问题.cpp" />
     <ClCompile Include="10月\10.20\6-P1137 旅行计划.cpp" />
+    <ClCompile Include="10月\10.21\1-F. Flow of binary matrix.cpp" />
     <ClCompile Include="9月\1-A1. Floor of MEX %28Easy Version%29.cpp" />
     <ClCompile Include="9月\1-C. 101.cpp" />
     <ClCompile Include="9月\1-C. MEXOR.cpp" />

@@ -225,5 +225,8 @@
     <ClCompile Include="10月\10.20\6-P1137 旅行计划.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.21\1-F. Flow of binary matrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
