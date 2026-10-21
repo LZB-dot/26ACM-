@@ -231,5 +231,8 @@
     <ClCompile Include="10月\10.21\2-L. Convert to heap.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.21\3-L. Walking to School.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
