@@ -228,5 +228,8 @@
     <ClCompile Include="10月\10.21\1-F. Flow of binary matrix.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.21\2-L. Convert to heap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
