@@ -267,5 +267,8 @@
     <ClCompile Include="10月\10.22\3-P1948 [USACO08JAN] Telephone Lines S.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.22\4-P2683 [AHOI2015 初中组] 小岛.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
