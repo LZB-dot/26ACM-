@@ -164,6 +164,9 @@
     <ClCompile Include="10月\10.21\1-F. Flow of binary matrix.cpp" />
     <ClCompile Include="10月\10.21\2-L. Convert to heap.cpp" />
     <ClCompile Include="10月\10.21\3-L. Walking to School.cpp" />
+    <ClCompile Include="10月\10.21\4-Catenyms.cpp" />
+    <ClCompile Include="10月\10.22\2-P1462 通往奥格瑞玛的道路.cpp" />
+    <ClCompile Include="10月\10.22\1-Frogger.cpp" />
     <ClCompile Include="9月\1-A1. Floor of MEX %28Easy Version%29.cpp" />
     <ClCompile Include="9月\1-C. 101.cpp" />
     <ClCompile Include="9月\1-C. MEXOR.cpp" />
@@ -175,6 +178,13 @@
     <ClCompile Include="9月\3-E - All-you-can-eat .cpp" />
     <ClCompile Include="9月\3-E. Masha and the Garland.cpp" />
     <ClCompile Include="9月\1-B. Resource Distribution.cpp" />
+    <ClCompile Include="c语言程序大赛老生组验题\1-昼夜之间的探测器.cpp" />
+    <ClCompile Include="c语言程序大赛老生组验题\2-爱吃糖果的MYC（Easy Version）.cpp" />
+    <ClCompile Include="c语言程序大赛老生组验题\4-差一点的等差数列.cpp" />
+    <ClCompile Include="c语言程序大赛老生组验题\3-置换环.cpp" />
+    <ClCompile Include="c语言程序大赛老生组验题\5-最小值与缺失值.cpp" />
+    <ClCompile Include="c语言程序大赛老生组验题\6-分数的漂移.cpp" />
+    <ClCompile Include="c语言程序大赛老生组验题\7-走廊里的常亮灯.cpp" />
     <ClCompile Include="STL\1-查找.cpp" />
     <ClCompile Include="牛客周赛 Round 165\A-小月的dx分.cpp" />
     <ClCompile Include="牛客周赛 Round 165\B-小月的配对.cpp" />
