@@ -264,5 +264,8 @@
     <ClCompile Include="c语言程序大赛老生组验题\7-走廊里的常亮灯.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.22\3-P1948 [USACO08JAN] Telephone Lines S.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
