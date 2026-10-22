@@ -73,7 +73,18 @@
 //
 //			};
 //
-//		while (r - l > eps) {
+//		/*while (r - l > eps) {
+//			double mid = (l + r) / 2.0;
+//
+//			if (check(mid)) {
+//				ans = mid;
+//				r = mid;
+//			}
+//			else
+//				l = mid;
+//		}*/
+//
+//		for (int iter = 0; iter < 100; ++iter) {
 //			double mid = (l + r) / 2.0;
 //
 //			if (check(mid)) {
@@ -83,7 +94,7 @@
 //			else
 //				l = mid;
 //		}
-//
+//	
 //		cout << "Scenario #" << t << "\n";
 //		printf("Frog Distance = %.3lf\n\n", sqrt(ans));
 //	}
