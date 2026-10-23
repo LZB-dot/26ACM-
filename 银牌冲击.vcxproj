@@ -169,6 +169,7 @@
     <ClCompile Include="10月\10.22\1-Frogger.cpp" />
     <ClCompile Include="10月\10.22\3-P1948 [USACO08JAN] Telephone Lines S.cpp" />
     <ClCompile Include="10月\10.22\4-P2683 [AHOI2015 初中组] 小岛.cpp" />
+    <ClCompile Include="10月\10.23\1-E. Shopping Master.cpp" />
     <ClCompile Include="9月\1-A1. Floor of MEX %28Easy Version%29.cpp" />
     <ClCompile Include="9月\1-C. 101.cpp" />
     <ClCompile Include="9月\1-C. MEXOR.cpp" />

@@ -270,5 +270,8 @@
     <ClCompile Include="10月\10.22\4-P2683 [AHOI2015 初中组] 小岛.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.23\1-E. Shopping Master.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
