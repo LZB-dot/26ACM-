@@ -273,5 +273,14 @@
     <ClCompile Include="10月\10.23\1-E. Shopping Master.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10月\10.23\2-P3953 [NOIP 2017 提高组] 逛公园.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10月\10.24\2-P1772 [ZJOI2006] 物流运输.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10月\10.24\1-H. Handling Clarifications.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
