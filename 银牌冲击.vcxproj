@@ -173,6 +173,7 @@
     <ClCompile Include="10月\10.23\2-P3953 [NOIP 2017 提高组] 逛公园.cpp" />
     <ClCompile Include="10月\10.24\2-P1772 [ZJOI2006] 物流运输.cpp" />
     <ClCompile Include="10月\10.24\1-H. Handling Clarifications.cpp" />
+    <ClCompile Include="10月\10.25\1-B. Russian Roller Coasters.cpp" />
     <ClCompile Include="9月\1-A1. Floor of MEX %28Easy Version%29.cpp" />
     <ClCompile Include="9月\1-C. 101.cpp" />
     <ClCompile Include="9月\1-C. MEXOR.cpp" />
