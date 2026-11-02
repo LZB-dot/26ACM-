@@ -237,31 +237,10 @@
     <ClCompile Include="10月\10.21\4-Catenyms.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="c语言程序大赛老生组验题\2-爱吃糖果的MYC（Easy Version）.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="c语言程序大赛老生组验题\3-置换环.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="c语言程序大赛老生组验题\4-差一点的等差数列.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="c语言程序大赛老生组验题\1-昼夜之间的探测器.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="10月\10.22\2-P1462 通往奥格瑞玛的道路.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="10月\10.22\1-Frogger.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="c语言程序大赛老生组验题\5-最小值与缺失值.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="c语言程序大赛老生组验题\6-分数的漂移.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="c语言程序大赛老生组验题\7-走廊里的常亮灯.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="10月\10.22\3-P1948 [USACO08JAN] Telephone Lines S.cpp">
@@ -283,6 +262,84 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="10月\10.25\1-B. Russian Roller Coasters.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c语言程序大赛老生组验题\8-骰出质数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c语言程序大赛老生组验题\9-爱吃糖果的 MYC（Hard Version）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c语言程序大赛老生组验题\10-集合的最小公倍数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客周赛 Round 167\A-小红的单复数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客周赛 Round 167\B-qcjj的演唱会.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客周赛 Round 167\C-小红的区间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客周赛 Round 167\D-小红的排列构造.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客周赛 Round 167\E-小红的根（easy）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客周赛 Round 167\F-小红的根（hard）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10月\10.26\1-D. Distinct Orders.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10月\10.27\1-F. Permutation Edit Distance.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10月\10.27\2-I. Increasing Tree Jumps.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10月\10.28\1-G. Illuminating Lights.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10月\10.29\1-J. Janitor%27s Cart.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客小白月赛139\1-小芳和奶龙.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客小白月赛139\2-奶龙的奇妙公式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客小白月赛139\3-小芳的比赛.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客小白月赛139\4-小苯的纸牌屋.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客小白月赛139\5-小芳的睡眠排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客周赛 Round 168\1-小月的数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客周赛 Round 168\2-小月的屏幕.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客周赛 Round 168\3-小月的同余.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客周赛 Round 168\4-小月的储物格.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客周赛 Round 168\5-小月的栈（Easy）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客周赛 Round 168\6-小月的川菜.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客周赛 Round 168\7-小月的栈（Hard）.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
