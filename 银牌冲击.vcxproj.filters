@@ -357,5 +357,8 @@
     <ClCompile Include="11月\乐山补题\5-G. 倾斜木棍.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11月\11.11\1-F. Circular Minesweeper.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
