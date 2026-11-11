@@ -179,6 +179,11 @@
     <ClCompile Include="10月\10.27\2-I. Increasing Tree Jumps.cpp" />
     <ClCompile Include="10月\10.28\1-G. Illuminating Lights.cpp" />
     <ClCompile Include="10月\10.29\1-J. Janitor%27s Cart.cpp" />
+    <ClCompile Include="11月\乐山补题\1-D. 自动穿串机器人.cpp" />
+    <ClCompile Include="11月\乐山补题\2-L. 交换字母.cpp" />
+    <ClCompile Include="11月\乐山补题\3-J. 有毒药物.cpp" />
+    <ClCompile Include="11月\乐山补题\4-M. 三元组.cpp" />
+    <ClCompile Include="11月\乐山补题\5-G. 倾斜木棍.cpp" />
     <ClCompile Include="9月\1-A1. Floor of MEX %28Easy Version%29.cpp" />
     <ClCompile Include="9月\1-C. 101.cpp" />
     <ClCompile Include="9月\1-C. MEXOR.cpp" />

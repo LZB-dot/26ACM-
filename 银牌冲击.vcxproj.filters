@@ -342,5 +342,20 @@
     <ClCompile Include="牛客周赛 Round 168\7-小月的栈（Hard）.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11月\乐山补题\1-D. 自动穿串机器人.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11月\乐山补题\2-L. 交换字母.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11月\乐山补题\3-J. 有毒药物.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11月\乐山补题\4-M. 三元组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11月\乐山补题\5-G. 倾斜木棍.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
