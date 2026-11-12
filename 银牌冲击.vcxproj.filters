@@ -363,5 +363,8 @@
     <ClCompile Include="11月\11.11\2-L. Linesweeper.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11月\11.12\1-K. Keep Sorting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
