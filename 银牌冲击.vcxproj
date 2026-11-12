@@ -182,6 +182,7 @@
     <ClCompile Include="11月\11.11\1-F. Circular Minesweeper.cpp" />
     <ClCompile Include="11月\11.11\2-L. Linesweeper.cpp" />
     <ClCompile Include="11月\11.12\1-K. Keep Sorting.cpp" />
+    <ClCompile Include="11月\11.12\2-M. MEX Queries.cpp" />
     <ClCompile Include="11月\乐山补题\1-D. 自动穿串机器人.cpp" />
     <ClCompile Include="11月\乐山补题\2-L. 交换字母.cpp" />
     <ClCompile Include="11月\乐山补题\3-J. 有毒药物.cpp" />
