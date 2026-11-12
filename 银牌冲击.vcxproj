@@ -188,6 +188,7 @@
     <ClCompile Include="11月\乐山补题\3-J. 有毒药物.cpp" />
     <ClCompile Include="11月\乐山补题\4-M. 三元组.cpp" />
     <ClCompile Include="11月\乐山补题\5-G. 倾斜木棍.cpp" />
+    <ClCompile Include="11月\乐山补题\6-H. 区间和.cpp" />
     <ClCompile Include="9月\1-A1. Floor of MEX %28Easy Version%29.cpp" />
     <ClCompile Include="9月\1-C. 101.cpp" />
     <ClCompile Include="9月\1-C. MEXOR.cpp" />
