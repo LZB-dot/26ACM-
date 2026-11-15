@@ -230,6 +230,12 @@
     <ClCompile Include="牛客周赛 Round 168\5-小月的栈（Easy）.cpp" />
     <ClCompile Include="牛客周赛 Round 168\6-小月的川菜.cpp" />
     <ClCompile Include="牛客周赛 Round 168\7-小月的栈（Hard）.cpp" />
+    <ClCompile Include="牛客周赛 Round 170\1-qc的水桶.cpp" />
+    <ClCompile Include="牛客周赛 Round 170\2-qc的宾果.cpp" />
+    <ClCompile Include="牛客周赛 Round 170\3-qc染色.cpp" />
+    <ClCompile Include="牛客周赛 Round 170\4-qc的箱子.cpp" />
+    <ClCompile Include="牛客周赛 Round 170\5-qc的补给站.cpp" />
+    <ClCompile Include="牛客周赛 Round 170\6-qc的树.cpp" />
     <ClCompile Include="牛客小白月赛138\A-Sleeping Time.cpp" />
     <ClCompile Include="牛客小白月赛138\B-Is it Palidrome.cpp" />
     <ClCompile Include="牛客小白月赛138\C-AND and OR.cpp" />
