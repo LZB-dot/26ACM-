@@ -342,19 +342,19 @@
     <ClCompile Include="牛客周赛 Round 168\7-小月的栈（Hard）.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="11月\26ccpc乐山补题\1-D. 自动穿串机器人.cpp">
+    <ClCompile Include="11月\ccpc26乐山补题\1-D. 自动穿串机器人.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="11月\26ccpc乐山补题\2-L. 交换字母.cpp">
+    <ClCompile Include="11月\ccpc26乐山补题\2-L. 交换字母.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="11月\26ccpc乐山补题\3-J. 有毒药物.cpp">
+    <ClCompile Include="11月\ccpc26乐山补题\3-J. 有毒药物.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="11月\26ccpc乐山补题\4-M. 三元组.cpp">
+    <ClCompile Include="11月\ccpc26乐山补题\4-M. 三元组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="11月\26ccpc乐山补题\5-G. 倾斜木棍.cpp">
+    <ClCompile Include="11月\ccpc26乐山补题\5-G. 倾斜木棍.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="11月\11.11\1-F. Circular Minesweeper.cpp">
@@ -369,7 +369,7 @@
     <ClCompile Include="11月\11.12\2-M. MEX Queries.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="11月\26ccpc乐山补题\6-H. 区间和.cpp">
+    <ClCompile Include="11月\ccpc26乐山补题\6-H. 区间和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="11月\11.14\1-C. Path of Crows.cpp">
