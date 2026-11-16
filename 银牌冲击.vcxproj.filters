@@ -390,22 +390,22 @@
     <ClCompile Include="牛客小白月赛140\5-小花的彩带.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="牛客周赛 Round 170\1-qc的水桶.cpp">
+    <ClCompile Include="11月\牛客周赛 Round 170\1-qc的水桶.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="牛客周赛 Round 170\2-qc的宾果.cpp">
+    <ClCompile Include="11月\牛客周赛 Round 170\2-qc的宾果.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="牛客周赛 Round 170\3-qc染色.cpp">
+    <ClCompile Include="11月\牛客周赛 Round 170\3-qc染色.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="牛客周赛 Round 170\4-qc的箱子.cpp">
+    <ClCompile Include="11月\牛客周赛 Round 170\4-qc的箱子.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="牛客周赛 Round 170\5-qc的补给站.cpp">
+    <ClCompile Include="11月\牛客周赛 Round 170\5-qc的补给站.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="牛客周赛 Round 170\6-qc的树.cpp">
+    <ClCompile Include="11月\牛客周赛 Round 170\6-qc的树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
