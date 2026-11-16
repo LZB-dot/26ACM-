@@ -375,19 +375,19 @@
     <ClCompile Include="11月\11.14\1-C. Path of Crows.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="牛客小白月赛140\1-小花的糖果.cpp">
+    <ClCompile Include="11月\牛客小白月赛140\1-小花的糖果.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="牛客小白月赛140\2-小花的快递.cpp">
+    <ClCompile Include="11月\牛客小白月赛140\2-小花的快递.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="牛客小白月赛140\3-小花的星图.cpp">
+    <ClCompile Include="11月\牛客小白月赛140\3-小花的星图.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="牛客小白月赛140\4-小花的奶茶.cpp">
+    <ClCompile Include="11月\牛客小白月赛140\4-小花的奶茶.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="牛客小白月赛140\5-小花的彩带.cpp">
+    <ClCompile Include="11月\牛客小白月赛140\5-小花的彩带.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="11月\牛客周赛 Round 170\1-qc的水桶.cpp">
