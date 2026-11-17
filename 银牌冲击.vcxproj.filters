@@ -408,5 +408,20 @@
     <ClCompile Include="11月\牛客周赛 Round 170\6-qc的树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11月\icpc26沈阳补题\1-L. 挑剔的编辑器 I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11月\icpc26沈阳补题\2-D. 前缀极值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11月\icpc26沈阳补题\3-H. 完美谜题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11月\icpc26沈阳补题\4-C. 缓存与否.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11月\11.15\1-B. Binary Search Trees.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
