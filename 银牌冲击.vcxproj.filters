@@ -429,5 +429,8 @@
     <ClCompile Include="11月\11.17\2-D. Energetic Cook.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11月\11.17\3-E. Tournament.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
