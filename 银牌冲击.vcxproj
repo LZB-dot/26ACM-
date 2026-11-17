@@ -184,7 +184,8 @@
     <ClCompile Include="11月\11.12\1-K. Keep Sorting.cpp" />
     <ClCompile Include="11月\11.12\2-M. MEX Queries.cpp" />
     <ClCompile Include="11月\11.14\1-C. Path of Crows.cpp" />
-    <ClCompile Include="11月\11.15\1-B. Binary Search Trees.cpp" />
+    <ClCompile Include="11月\11.16\1-B. Binary Search Trees.cpp" />
+    <ClCompile Include="11月\11.17\1-Hidden Integer.cpp" />
     <ClCompile Include="11月\ccpc26乐山补题\1-D. 自动穿串机器人.cpp" />
     <ClCompile Include="11月\ccpc26乐山补题\2-L. 交换字母.cpp" />
     <ClCompile Include="11月\ccpc26乐山补题\3-J. 有毒药物.cpp" />

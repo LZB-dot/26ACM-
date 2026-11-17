@@ -420,7 +420,10 @@
     <ClCompile Include="11月\icpc26沈阳补题\4-C. 缓存与否.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="11月\11.15\1-B. Binary Search Trees.cpp">
+    <ClCompile Include="11月\11.16\1-B. Binary Search Trees.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11月\11.17\1-Hidden Integer.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
