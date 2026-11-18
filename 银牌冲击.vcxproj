@@ -188,6 +188,7 @@
     <ClCompile Include="11月\11.17\1-Hidden Integer.cpp" />
     <ClCompile Include="11月\11.17\2-D. Energetic Cook.cpp" />
     <ClCompile Include="11月\11.17\3-E. Tournament.cpp" />
+    <ClCompile Include="11月\11.18\1-I. I Don%27t Miss Pennies.cpp" />
     <ClCompile Include="11月\ccpc26乐山补题\1-D. 自动穿串机器人.cpp" />
     <ClCompile Include="11月\ccpc26乐山补题\2-L. 交换字母.cpp" />
     <ClCompile Include="11月\ccpc26乐山补题\3-J. 有毒药物.cpp" />
