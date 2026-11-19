@@ -191,6 +191,7 @@
     <ClCompile Include="11月\11.18\1-I. I Don%27t Miss Pennies.cpp" />
     <ClCompile Include="11月\11.19\1-B. Grand Renaming.cpp" />
     <ClCompile Include="11月\11.19\2-C. Olympiad Schedule.cpp" />
+    <ClCompile Include="11月\11.19\3-E. Restoring the Permutation.cpp" />
     <ClCompile Include="11月\ccpc26乐山补题\1-D. 自动穿串机器人.cpp" />
     <ClCompile Include="11月\ccpc26乐山补题\2-L. 交换字母.cpp" />
     <ClCompile Include="11月\ccpc26乐山补题\3-J. 有毒药物.cpp" />

@@ -441,5 +441,8 @@
     <ClCompile Include="11月\11.19\2-C. Olympiad Schedule.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11月\11.19\3-E. Restoring the Permutation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
