@@ -435,5 +435,8 @@
     <ClCompile Include="11月\11.18\1-I. I Don%27t Miss Pennies.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11月\11.19\1-B. Grand Renaming.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
