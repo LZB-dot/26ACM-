@@ -444,5 +444,8 @@
     <ClCompile Include="11月\11.19\3-E. Restoring the Permutation.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11月\11.19\4-P2058 [NOIP 2016 普及组] 海港.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
