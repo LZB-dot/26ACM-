@@ -450,5 +450,8 @@
     <ClCompile Include="11月\11.19\5-P3390 【模板】矩阵快速幂.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11月\11.20\1-C. Pull Your Luck.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

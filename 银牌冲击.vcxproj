@@ -194,6 +194,7 @@
     <ClCompile Include="11月\11.19\3-E. Restoring the Permutation.cpp" />
     <ClCompile Include="11月\11.19\4-P2058 [NOIP 2016 普及组] 海港.cpp" />
     <ClCompile Include="11月\11.19\5-P3390 【模板】矩阵快速幂.cpp" />
+    <ClCompile Include="11月\11.20\1-C. Pull Your Luck.cpp" />
     <ClCompile Include="11月\ccpc26乐山补题\1-D. 自动穿串机器人.cpp" />
     <ClCompile Include="11月\ccpc26乐山补题\2-L. 交换字母.cpp" />
     <ClCompile Include="11月\ccpc26乐山补题\3-J. 有毒药物.cpp" />
