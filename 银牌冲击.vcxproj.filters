@@ -453,5 +453,8 @@
     <ClCompile Include="11月\11.20\1-C. Pull Your Luck.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11月\11.21\1-E. Good Substrings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
