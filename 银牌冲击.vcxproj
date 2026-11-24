@@ -204,6 +204,7 @@
     <ClCompile Include="11月\ccpc26乐山补题\4-M. 三元组.cpp" />
     <ClCompile Include="11月\ccpc26乐山补题\5-G. 倾斜木棍.cpp" />
     <ClCompile Include="11月\ccpc26乐山补题\6-H. 区间和.cpp" />
+    <ClCompile Include="11月\ccpc26厦门补题\1-L. 恶魔房.cpp" />
     <ClCompile Include="11月\icpc26沈阳补题\1-L. 挑剔的编辑器 I.cpp" />
     <ClCompile Include="11月\icpc26沈阳补题\2-D. 前缀极值.cpp" />
     <ClCompile Include="11月\icpc26沈阳补题\3-H. 完美谜题.cpp" />
