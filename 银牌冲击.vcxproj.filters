@@ -453,13 +453,13 @@
     <ClCompile Include="11月\11.20\1-C. Pull Your Luck.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="11月\11.21\1-E. Good Substrings.cpp">
+    <ClCompile Include="11月\11.23\1-E. Good Substrings.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="11月\11.21\2-F. Tea Blend.cpp">
+    <ClCompile Include="11月\11.23\2-F. Tea Blend.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="11月\11.21\3-K. Kyuu Sort.cpp">
+    <ClCompile Include="11月\11.23\3-K. Kyuu Sort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
