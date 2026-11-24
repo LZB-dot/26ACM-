@@ -465,5 +465,8 @@
     <ClCompile Include="11月\ccpc26厦门补题\1-L. 恶魔房.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11月\ccpc26厦门补题\2-B灵犀.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
