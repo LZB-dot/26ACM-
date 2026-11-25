@@ -471,5 +471,8 @@
     <ClCompile Include="11月\ccpc26厦门补题\3-A. 舞萌？！.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11月\11.25\1-E. Repentance Is Already on the Way.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

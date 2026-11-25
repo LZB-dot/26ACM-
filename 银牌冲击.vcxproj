@@ -198,6 +198,7 @@
     <ClCompile Include="11月\11.23\1-E. Good Substrings.cpp" />
     <ClCompile Include="11月\11.23\2-F. Tea Blend.cpp" />
     <ClCompile Include="11月\11.23\3-K. Kyuu Sort.cpp" />
+    <ClCompile Include="11月\11.25\1-E. Repentance Is Already on the Way.cpp" />
     <ClCompile Include="11月\ccpc26乐山补题\1-D. 自动穿串机器人.cpp" />
     <ClCompile Include="11月\ccpc26乐山补题\2-L. 交换字母.cpp" />
     <ClCompile Include="11月\ccpc26乐山补题\3-J. 有毒药物.cpp" />
